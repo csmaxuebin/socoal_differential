@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="adf921f5-8668-4025-968e-5e59c56d6765" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="WeightGraph" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/MyProgram/Maven" />
+        <option name="userSettingsFile" value="C:\Users\xiaojiu\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j8qSnsTcexBTQHxljilYIRoBWt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/syn-nproj" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\xiaojiu\IdeaProjects\WeightGraph_3.8\syn-nproj" />
+      <recent name="C:\Users\xiaojiu\IdeaProjects\WeightGraph_3.8" />
+      <recent name="C:\Users\xiaojiu\IdeaProjects\WeightGraph_3.8\data\object" />
+      <recent name="C:\Users\xiaojiu\IdeaProjects\WeightGraph_3.8\data" />
+      <recent name="C:\Users\xiaojiu\IdeaProjects\WeightGraph_修改版" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xiaojiu\IdeaProjects\WeightGraph_3.8" />
+      <recent name="C:\Users\xiaojiu\IdeaProjects\WeightGraph_3.8\sys" />
+      <recent name="C:\Users\xiaojiu\IdeaProjects\WeightGraph_3.8\comparison" />
+      <recent name="C:\Users\xiaojiu\IdeaProjects\WeightGraph_3.8\object" />
+      <recent name="C:\Users\xiaojiu\IdeaProjects\WeightGraph\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.nproy">
+    <configuration name="点线图" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WeightGraph" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/点线图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Histogram" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WeightGraph" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Histogram.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="experiment_lap" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WeightGraph" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/comparison" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comparison/experiment_lap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="experiments_Bto" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WeightGraph" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/experiments_Bto.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nproy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WeightGraph" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/syn-nproj" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/syn-nproj/nproy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.nproy" />
+        <item itemvalue="Python.点线图" />
+        <item itemvalue="Python.experiment_lap" />
+        <item itemvalue="Python.experiments_Bto" />
+        <item itemvalue="Python.Histogram" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adf921f5-8668-4025-968e-5e59c56d6765" name="Default Changelist" comment="" />
+      <created>1603196068277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603196068277</updated>
+      <workItem from="1603196074995" duration="4771000" />
+      <workItem from="1603354204575" duration="5777000" />
+      <workItem from="1603510257193" duration="7082000" />
+      <workItem from="1603676985764" duration="6500000" />
+      <workItem from="1603783802841" duration="4551000" />
+      <workItem from="1604294877188" duration="15921000" />
+      <workItem from="1604730569218" duration="2272000" />
+      <workItem from="1604732877928" duration="6814000" />
+      <workItem from="1604884220451" duration="10429000" />
+      <workItem from="1604989307324" duration="9868000" />
+      <workItem from="1605178235962" duration="595000" />
+      <workItem from="1606442407621" duration="15304000" />
+      <workItem from="1606701838087" duration="9103000" />
+      <workItem from="1606789358686" duration="5703000" />
+      <workItem from="1606975904121" duration="24647000" />
+      <workItem from="1607410038032" duration="13447000" />
+      <workItem from="1607908645003" duration="1257000" />
+      <workItem from="1607929135818" duration="619000" />
+      <workItem from="1608081711422" duration="11746000" />
+      <workItem from="1608167743128" duration="5998000" />
+      <workItem from="1608267894537" duration="5440000" />
+      <workItem from="1608512550707" duration="17213000" />
+      <workItem from="1608620728828" duration="27475000" />
+      <workItem from="1608890990661" duration="14183000" />
+      <workItem from="1609043513808" duration="9361000" />
+      <workItem from="1609219895393" duration="13567000" />
+      <workItem from="1609818168903" duration="22172000" />
+      <workItem from="1611672402362" duration="17000" />
+      <workItem from="1611991760810" duration="10778000" />
+      <workItem from="1612162892038" duration="7345000" />
+      <workItem from="1612249887030" duration="574000" />
+      <workItem from="1612845379077" duration="5174000" />
+      <workItem from="1612870725602" duration="1534000" />
+      <workItem from="1612922906786" duration="10062000" />
+      <workItem from="1613563910106" duration="47729000" />
+      <workItem from="1613975003163" duration="17922000" />
+      <workItem from="1614608486696" duration="70111000" />
+      <workItem from="1614999715675" duration="11175000" />
+      <workItem from="1615052396185" duration="14443000" />
+      <workItem from="1615184748215" duration="1346000" />
+      <workItem from="1615187333337" duration="2935000" />
+      <workItem from="1615190446914" duration="29679000" />
+      <workItem from="1615619885715" duration="18072000" />
+      <workItem from="1615954166596" duration="35315000" />
+      <workItem from="1615998077653" duration="21929000" />
+      <workItem from="1616082932876" duration="1046000" />
+      <workItem from="1616156403138" duration="29949000" />
+      <workItem from="1617708763435" duration="1769000" />
+      <workItem from="1617710687647" duration="3087000" />
+      <workItem from="1617722692153" duration="3903000" />
+      <workItem from="1617808587806" duration="2701000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="202" y="23" key="#Project_Structure" timestamp="1616047639447">
+      <screen x="0" y="0" width="1217" height="721" />
+    </state>
+    <state x="202" y="23" key="#Project_Structure/0.0.1217.721@0.0.1217.721" timestamp="1616047639447" />
+    <state x="-94" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616083335276">
+      <screen x="0" y="0" width="1217" height="721" />
+    </state>
+    <state x="-94" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1217.721@0.0.1217.721" timestamp="1616083335276" />
+    <state x="356" y="170" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616393554092">
+      <screen x="0" y="0" width="1217" height="721" />
+    </state>
+    <state x="356" y="170" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1217.721@0.0.1217.721" timestamp="1616393554092" />
+    <state x="286" y="42" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1615997462547">
+      <screen x="0" y="0" width="1217" height="721" />
+    </state>
+    <state x="286" y="42" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1217.721@0.0.1217.721" timestamp="1615997462547" />
+    <state x="353" y="120" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615956976229">
+      <screen x="0" y="0" width="1217" height="721" />
+    </state>
+    <state x="353" y="120" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1217.721@0.0.1217.721" timestamp="1615956976229" />
+    <state x="371" y="127" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.760@0.0.1280.760" timestamp="1613649714458" />
+    <state x="623" y="164" key="FileChooserDialogImpl" timestamp="1616223674423">
+      <screen x="0" y="0" width="1217" height="721" />
+    </state>
+    <state x="623" y="164" key="FileChooserDialogImpl/0.0.1217.721@0.0.1217.721" timestamp="1616223674423" />
+    <state x="655" y="173" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1609232538434" />
+    <state width="1174" height="49" key="GridCell.Tab.0.bottom" timestamp="1617857169901">
+      <screen x="0" y="0" width="1217" height="721" />
+    </state>
+    <state width="1174" height="49" key="GridCell.Tab.0.bottom/0.0.1217.721@0.0.1217.721" timestamp="1617857169901" />
+    <state width="1238" height="222" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1615190291280" />
+    <state width="1174" height="49" key="GridCell.Tab.0.center" timestamp="1617857169901">
+      <screen x="0" y="0" width="1217" height="721" />
+    </state>
+    <state width="1174" height="49" key="GridCell.Tab.0.center/0.0.1217.721@0.0.1217.721" timestamp="1617857169901" />
+    <state width="1238" height="222" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1615190291280" />
+    <state width="1174" height="49" key="GridCell.Tab.0.left" timestamp="1617857169901">
+      <screen x="0" y="0" width="1217" height="721" />
+    </state>
+    <state width="1174" height="49" key="GridCell.Tab.0.left/0.0.1217.721@0.0.1217.721" timestamp="1617857169901" />
+    <state width="1238" height="222" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1615190291280" />
+    <state width="1174" height="49" key="GridCell.Tab.0.right" timestamp="1617857169901">
+      <screen x="0" y="0" width="1217" height="721" />
+    </state>
+    <state width="1174" height="49" key="GridCell.Tab.0.right/0.0.1217.721@0.0.1217.721" timestamp="1617857169901" />
+    <state width="1238" height="222" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1615190291280" />
+    <state width="1174" height="220" key="GridCell.Tab.1.bottom" timestamp="1615218976349">
+      <screen x="0" y="0" width="1217" height="721" />
+    </state>
+    <state width="1174" height="220" key="GridCell.Tab.1.bottom/0.0.1217.721@0.0.1217.721" timestamp="1615218976349" />
+    <state width="1238" height="236" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1614673403026" />
+    <state width="1174" height="220" key="GridCell.Tab.1.center" timestamp="1615218976349">
+      <screen x="0" y="0" width="1217" height="721" />
+    </state>
+    <state width="1174" height="220" key="GridCell.Tab.1.center/0.0.1217.721@0.0.1217.721" timestamp="1615218976349" />
+    <state width="1238" height="236" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1614673403026" />
+    <state width="1174" height="220" key="GridCell.Tab.1.left" timestamp="1615218976349">
+      <screen x="0" y="0" width="1217" height="721" />
+    </state>
+    <state width="1174" height="220" key="GridCell.Tab.1.left/0.0.1217.721@0.0.1217.721" timestamp="1615218976349" />
+    <state width="1238" height="236" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1614673403026" />
+    <state width="1174" height="220" key="GridCell.Tab.1.right" timestamp="1615218976349">
+      <screen x="0" y="0" width="1217" height="721" />
+    </state>
+    <state width="1174" height="220" key="GridCell.Tab.1.right/0.0.1217.721@0.0.1217.721" timestamp="1615218976349" />
+    <state width="1238" height="236" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1614673403026" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1614071766568">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1614071766568" />
+    <state x="6" y="0" key="new project wizard" timestamp="1613557706947">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="6" y="0" key="new project wizard/0.0.1280.760@0.0.1280.760" timestamp="1613557706947" />
+    <state x="304" y="177" key="run.anything.popup" timestamp="1614785521402">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="304" y="177" key="run.anything.popup/0.0.1280.760@0.0.1280.760" timestamp="1614785521402" />
+    <state x="298" y="87" width="672" height="644" key="search.everywhere.popup" timestamp="1615194418202">
+      <screen x="0" y="0" width="1217" height="721" />
+    </state>
+    <state x="298" y="87" width="672" height="644" key="search.everywhere.popup/0.0.1217.721@0.0.1217.721" timestamp="1615194418202" />
+    <state x="313" y="92" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1613803102347" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$ComparisonMethodimp.coverage" NAME="ComparisonMethodimp Coverage Results" MODIFIED="1615998092717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$experiments_facebook.coverage" NAME="experiments-facebook Coverage Results" MODIFIED="1615955549151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$obj_bto.coverage" NAME="obj_bto Coverage Results" MODIFIED="1615962032752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph$SyntheticWeightGraph.coverage" NAME="SyntheticWeightGraph Coverage Results" MODIFIED="1607415433886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph_$experiments_facebook.coverage" NAME="experiments-facebook Coverage Results" MODIFIED="1615052415023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$experiments_wiki.coverage" NAME="experiments_wiki Coverage Results" MODIFIED="1615194514171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$pretreatment_2.coverage" NAME="pretreatment_2 Coverage Results" MODIFIED="1615966799006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph$experiments.coverage" NAME="experiments Coverage Results" MODIFIED="1613649421824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$experiments_Bto.coverage" NAME="experiments_Bto Coverage Results" MODIFIED="1617723763679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$.coverage" NAME="点线图 Coverage Results" MODIFIED="1617793219415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph$tool.coverage" NAME="tool Coverage Results" MODIFIED="1609246564306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph$Laplace.coverage" NAME="Laplace Coverage Results" MODIFIED="1613649225605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph$experiments_facebook.coverage" NAME="experiments-facebook Coverage Results" MODIFIED="1613659805290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$addTriangle__2_.coverage" NAME="addTriangle (2) Coverage Results" MODIFIED="1616071026182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison" />
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$Comparison_method.coverage" NAME="Comparison method Coverage Results" MODIFIED="1615988870552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$addTriangle__1_.coverage" NAME="addTriangle (1) Coverage Results" MODIFIED="1616069775967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$experiments_CA.coverage" NAME="experiments_CA Coverage Results" MODIFIED="1616163479880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph_$test.coverage" NAME="test Coverage Results" MODIFIED="1614768065360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph$experiments_wiki.coverage" NAME="experiments-wiki Coverage Results" MODIFIED="1613649933419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$obj_CA.coverage" NAME="obj_CA Coverage Results" MODIFIED="1615963316169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph_$test_2.coverage" NAME="test-2 Coverage Results" MODIFIED="1615186842917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$obj_noproj_CA.coverage" NAME="obj_noproj_CA Coverage Results" MODIFIED="1616161987793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph$pretreatment.coverage" NAME="pretreatment Coverage Results" MODIFIED="1613652249969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph$OriginalWeightGraph.coverage" NAME="OriginalWeightGraph Coverage Results" MODIFIED="1603696092339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$ComparisonMethod__1_.coverage" NAME="ComparisonMethod (1) Coverage Results" MODIFIED="1615997356613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$test_2.coverage" NAME="test-2 Coverage Results" MODIFIED="1616083908351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$ComparisonMethod.coverage" NAME="ComparisonMethod Coverage Results" MODIFIED="1615995922629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison" />
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$experiments_test.coverage" NAME="experiments_test Coverage Results" MODIFIED="1615970914530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph_$experiments_bto.coverage" NAME="experiments-bto Coverage Results" MODIFIED="1614786497430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$pretreatment.coverage" NAME="pretreatment Coverage Results" MODIFIED="1615733545894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph$test_2.coverage" NAME="test-2 Coverage Results" MODIFIED="1613784932958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$addTriangle.coverage" NAME="addTriangle Coverage Results" MODIFIED="1616051624565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison" />
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$experiment_lap.coverage" NAME="experiment_lap Coverage Results" MODIFIED="1617791883922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison" />
+    <SUITE FILE_PATH="coverage/WeightGraph_$experiments_wiki.coverage" NAME="experiments-wiki Coverage Results" MODIFIED="1615052422764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$experiments_lastfm.coverage" NAME="experiments_lastfm Coverage Results" MODIFIED="1616163476127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$obj_noproj_lastgm.coverage" NAME="obj_noproj_lastgm Coverage Results" MODIFIED="1616161948070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph$wenxian.coverage" NAME="wenxian Coverage Results" MODIFIED="1603788187226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$obj_noproj_BTO.coverage" NAME="obj_noproj_BTO Coverage Results" MODIFIED="1616161918559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph$ExperimentsGraph.coverage" NAME="ExperimentsGraph Coverage Results" MODIFIED="1606462104648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph$test.coverage" NAME="test Coverage Results" MODIFIED="1612848510720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$obj_lastgm.coverage" NAME="obj_lastgm Coverage Results" MODIFIED="1615958276957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$nproy.coverage" NAME="nproy Coverage Results" MODIFIED="1617857169877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/syn-nproj" />
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$experiment_lap__1_.coverage" NAME="experiment_lap (1) Coverage Results" MODIFIED="1616076885105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison" />
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$ourEx.coverage" NAME="ourEx Coverage Results" MODIFIED="1616076881874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sys" />
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$Histogram.coverage" NAME="Histogram Coverage Results" MODIFIED="1617709536471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph$experiments_bto.coverage" NAME="experiments-bto Coverage Results" MODIFIED="1613965157381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$test.coverage" NAME="test Coverage Results" MODIFIED="1616393584223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeightGraph_3_8$experiments_bto.coverage" NAME="experiments-bto Coverage Results" MODIFIED="1615961890397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
